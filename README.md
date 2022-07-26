@@ -1,2 +1,2 @@
-# React-Native-Expo-chatbox
-Its a chat-box using React-Native. It include the chat box, shared media, message lists .
+# React-Native/Expo-chatbox
+Its a chat-box using React-Native/Expo. It includes the chat box, shared media and message lists .
